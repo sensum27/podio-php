@@ -19,5 +19,10 @@
   },
   "autoload": {
     "classmap": ["lib/", "models/"]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "4.3.x-dev"
+    }
   }
 }
